@@ -5,6 +5,6 @@ FactoryBot.define do
     password { 'somepassword' }
     password_confirmation { 'somepassword' }
     units { 1800 }
-    target { 5 } 
+    target { 5 }
   end
 end
